@@ -2,7 +2,7 @@ package StudentDatabaseApp;
 
 import java.util.Scanner;
 
-public class Main {
+public class StudentDBApp {
     public static void main(String[] args) {
 
         // Hard code prior to creating for-loop
